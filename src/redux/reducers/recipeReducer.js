@@ -131,6 +131,7 @@ const initialState = [
             "Scoop mixture into prepared pie pan",
             "Bake in preheated oven until eggs have set, approximately 30 mins"
         ],
+        10,
     )
 ];
 
