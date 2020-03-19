@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.8d6ca1b0.chunk.js": "/recipe-notebook/static/js/0.8d6ca1b0.chunk.js",
+    "static/js/0.8d6ca1b0.chunk.js.map": "/recipe-notebook/static/js/0.8d6ca1b0.chunk.js.map",
+    "main.css": "/recipe-notebook/static/css/main.2b89eb3b.chunk.css",
+    "main.js": "/recipe-notebook/static/js/main.7ad12f73.chunk.js",
+    "main.js.map": "/recipe-notebook/static/js/main.7ad12f73.chunk.js.map",
+    "runtime-main.js": "/recipe-notebook/static/js/runtime-main.478847dc.js",
+    "runtime-main.js.map": "/recipe-notebook/static/js/runtime-main.478847dc.js.map",
+    "static/js/3.d4729402.chunk.js": "/recipe-notebook/static/js/3.d4729402.chunk.js",
+    "static/js/3.d4729402.chunk.js.map": "/recipe-notebook/static/js/3.d4729402.chunk.js.map",
+    "static/js/4.137038df.chunk.js": "/recipe-notebook/static/js/4.137038df.chunk.js",
+    "static/js/4.137038df.chunk.js.map": "/recipe-notebook/static/js/4.137038df.chunk.js.map",
+    "static/js/5.82b12c46.chunk.js": "/recipe-notebook/static/js/5.82b12c46.chunk.js",
+    "static/js/5.82b12c46.chunk.js.map": "/recipe-notebook/static/js/5.82b12c46.chunk.js.map",
+    "static/js/6.a72142ee.chunk.js": "/recipe-notebook/static/js/6.a72142ee.chunk.js",
+    "static/js/6.a72142ee.chunk.js.map": "/recipe-notebook/static/js/6.a72142ee.chunk.js.map",
+    "static/js/7.21f03005.chunk.js": "/recipe-notebook/static/js/7.21f03005.chunk.js",
+    "static/js/7.21f03005.chunk.js.map": "/recipe-notebook/static/js/7.21f03005.chunk.js.map",
+    "index.html": "/recipe-notebook/index.html",
+    "precache-manifest.e8341fd2df079a6f7119d75e27854c35.js": "/recipe-notebook/precache-manifest.e8341fd2df079a6f7119d75e27854c35.js",
+    "service-worker.js": "/recipe-notebook/service-worker.js",
+    "static/css/main.2b89eb3b.chunk.css.map": "/recipe-notebook/static/css/main.2b89eb3b.chunk.css.map",
+    "static/js/3.d4729402.chunk.js.LICENSE.txt": "/recipe-notebook/static/js/3.d4729402.chunk.js.LICENSE.txt",
+    "static/media/Cranberry_sauce.jpg": "/recipe-notebook/static/media/Cranberry_sauce.42096462.jpg",
+    "static/media/Eggplant_parmesan.jpg": "/recipe-notebook/static/media/Eggplant_parmesan.1fdde7e8.jpg",
+    "static/media/Sweet_potato_burritos.jpg": "/recipe-notebook/static/media/Sweet_potato_burritos.4486347c.jpg",
+    "static/media/crustless_spinach_quiche.jpg": "/recipe-notebook/static/media/crustless_spinach_quiche.1e0e7fea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478847dc.js",
+    "static/js/3.d4729402.chunk.js",
+    "static/css/main.2b89eb3b.chunk.css",
+    "static/js/main.7ad12f73.chunk.js"
+  ]
+}
