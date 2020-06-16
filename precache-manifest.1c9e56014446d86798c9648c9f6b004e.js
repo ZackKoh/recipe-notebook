@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe8e90f5d2ee0b2dd0e3ae72d6a2b4d0",
+    "revision": "5b6bef49cd1f793509189e4ba9b6a1e7",
     "url": "/recipe-notebook/index.html"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recipe-notebook/static/js/6.a72142ee.chunk.js"
   },
   {
-    "revision": "506158087ce7e160d0fe",
-    "url": "/recipe-notebook/static/js/7.21f03005.chunk.js"
+    "revision": "f549c054cfb4a3399ba6",
+    "url": "/recipe-notebook/static/js/7.0a67e45a.chunk.js"
   },
   {
     "revision": "cb72a48ec2fbb66295d0",
     "url": "/recipe-notebook/static/js/main.7ad12f73.chunk.js"
   },
   {
-    "revision": "cd4d0e19794a35861baf",
-    "url": "/recipe-notebook/static/js/runtime-main.478847dc.js"
+    "revision": "96003451ad5fd7f646f2",
+    "url": "/recipe-notebook/static/js/runtime-main.d43226db.js"
   },
   {
     "revision": "4209646228e341638ad2bc46bb6b0e6c",
