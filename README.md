@@ -31,9 +31,12 @@ Clicking on the search button when all filter fields are empty would return all 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Redux is used to provide some memory management for the system.
+
 Material-UI was used to provide some basic styling to the application.
 
 In-app navigation is done via react-router
 
 Most recipes referenced come from allRecipes.com, with some slight modifications.
 
+The site can be accessed via https://zackkoh.github.io/recipe-notebook.
