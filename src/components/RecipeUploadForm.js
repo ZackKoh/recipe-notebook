@@ -69,25 +69,30 @@ export default function () {
         //Extract the image into an ImageUrl
         let dataUrl = ''
         const reader = new FileReader();
-        reader.readAsDataURL(fileInput.current.files[0]);
-        reader.onload = ((e) => {
-            //Add the url to the dataObject
-            dataUrl = reader.result;
-            const dataObj = {
-                name: formState.name,
-                dateUploaded: new Date(),
-                description: formState.description,
-                categories: categoryArray,
-                image: dataUrl,
-                cookingTime: formState.cookingTime,
-                ingredients: ingredientArray,
-                instructions: instructionArray,
-                saves: 0
-            }
-            dispatch(addRecipe(dataObj));
-            dispatch({ type: "UPLOAD", payload: { recipeId: getId() } });
-            setDialogOpen(true);
-        })
+        try {
+            reader.readAsDataURL(fileInput.current.files[0]);
+            reader.onload = ((e) => {
+                //Add the url to the dataObject
+                dataUrl = reader.result;
+                const dataObj = {
+                    name: formState.name,
+                    dateUploaded: new Date(),
+                    description: formState.description,
+                    categories: categoryArray,
+                    image: dataUrl,
+                    cookingTime: formState.cookingTime,
+                    ingredients: ingredientArray,
+                    instructions: instructionArray,
+                    saves: 0
+                }
+                dispatch(addRecipe(dataObj));
+                dispatch({ type: "UPLOAD", payload: { recipeId: getId() } });
+                setDialogOpen(true);
+            })
+        }
+        catch {
+            alert("Please upload an image file for the recipe.");
+        }
     }
 
     const handleChange = name => e => {
